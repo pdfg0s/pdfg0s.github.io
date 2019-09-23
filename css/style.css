@@ -4778,9 +4778,7 @@ section.parallax-section .section-title:before {
 .custom-inner-header.educ:after {
 	content: "\f19d";
 }
-.custom-inner-header.workres:after {
-	content: "\f0b1";
-}
+
 .custom-inner-header:before {
 	content: '';
 	position: absolute;
