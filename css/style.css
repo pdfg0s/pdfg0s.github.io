@@ -6769,3 +6769,8 @@ section.parallax-section .section-title:before {
 .phone {
 	color: #FAC921;
 }
+.con {
+margin-left: 35px;
+padding-top: 25px;
+font-size: 25px;
+}
