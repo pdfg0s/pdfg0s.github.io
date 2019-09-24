@@ -6774,3 +6774,8 @@ margin-left: 35px;
 padding-top: 25px;
 font-size: 25px;
 }
+.vidos {
+	padding: 5px;
+	display: flex;
+	font-size: 15px;
+}
